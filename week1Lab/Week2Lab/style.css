@@ -1,3 +1,21 @@
 h1{
     color: aqua;
+}/* psudo Classes Example*/
+
+a:link{
+    color: red;
+    font-size: Large;
+    text-decoration: none;
+}
+
+a:visited{
+    color: seagreen;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    color: yellow;
 }
